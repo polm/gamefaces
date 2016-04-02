@@ -2,14 +2,24 @@
 
 This is a collection of square headshots extracted from the [Internet Archive Book Images Flickr Stream](https://www.flickr.com/photos/internetarchivebookimages/). Face positions were extracted using the [Google Cloud Vision API](https://cloud.google.com/vision/).
 
-Notes and limitations:
+# Samples
+
+![sample 1](https://github.com/polm/gamefaces/blob/master/faces/14576363307.face.jpg)
+![sample 2](https://github.com/polm/gamefaces/blob/master/faces/14598343660.face.jpg)
+![sample 3](https://github.com/polm/gamefaces/blob/master/faces/14598420890.face.jpg)
+![sample 4](https://github.com/polm/gamefaces/blob/master/faces/14781908461.face.jpg)
+
+# Notes and limitations
 
 - All images are 300px square JPEGs; some were upscaled from the original
+- Filenames are Flickr Image IDs
 - Sometimes image quality is not great; you'll probably want to pre-process them before use in a game
 - No gender information is available
 - Due to the nature of the corpus, most photos are of 19th century white men
 - Only the first face detected in each picture was used
 - Most pictures are photos, but occasionally illustrations or non-faces show up
+
+If you know of a public domain resource or face recognition system that can address any of these points please be in touch.
 
 # License
 
