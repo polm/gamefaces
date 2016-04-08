@@ -2,7 +2,16 @@
 
 This is a collection of square headshots extracted from the [Internet Archive Book Images Flickr Stream](https://www.flickr.com/photos/internetarchivebookimages/). Face positions were extracted using the [Google Cloud Vision API](https://cloud.google.com/vision/).
 
+# Overview
+
+These images have been shrunk and combined with gutters; this gives an overview of what to expect from most of the collection.
+
+![overview1](https://img.itch.io/aW1hZ2UvNjA2NTYvMjczNjkzLmpwZw==/original/06eniI.jpg)
+![overview2](https://img.itch.io/aW1hZ2UvNjA2NTYvMjczNjg0LmpwZw==/original/SMfSGi.jpg)
+
 # Samples
+
+These are actual images in the repository at their natural size.
 
 ![sample 1](https://github.com/polm/gamefaces/blob/master/faces/14576363307.face.jpg)
 ![sample 2](https://github.com/polm/gamefaces/blob/master/faces/14598343660.face.jpg)
